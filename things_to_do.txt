@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+1: Collect data regarding air pollution,water pollution, weather changes, temperature data and data related to environment.(kaggle or any other places)
+2: Find out how to connect django with hdfs(database)
+3: Explore D3js
+4: Explore AWS for application deployment
+5: Everyone brainstorm use case for the application
+=======
+1: Collect data regarding air pollution,water pollution, weather changes, temperature data and data related to environment.(kaggle or any other places)
+2: Find out how to connect django with hdfs(database)
+3: Explore D3js
+4: Explore AWS for application deployment
+5: Everyone brainstorm use case for the application
+>>>>>>> 4780cf39203a9621c806fc52371a5eba07a34cb8

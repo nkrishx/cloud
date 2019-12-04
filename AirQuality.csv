@@ -1,0 +1,1653 @@
+<<<<<<< HEAD
+Country,State,city,place,Pollutants
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",PM2.5
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",PM10
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",NO2
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",NH3
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",SO2
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",CO
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",OZONE
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",PM2.5
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",PM10
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",NO2
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",NH3
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",SO2
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",CO
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",OZONE
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",PM2.5
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",PM10
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",NO2
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",NH3
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",SO2
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",CO
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",OZONE
+India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",PM2.5
+India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",PM10
+India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",NO2
+India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",NH3
+India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",SO2
+India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",CO
+India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",PM2.5
+India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",PM10
+India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",NO2
+India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",NH3
+India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",SO2
+India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",OZONE
+India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",PM2.5
+India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",NO2
+India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",SO2
+India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",CO
+India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",OZONE
+India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",PM2.5
+India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",NO2
+India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",SO2
+India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",CO
+India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",OZONE
+India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",PM2.5
+India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",NO2
+India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",SO2
+India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",CO
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",CO
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",CO
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",CO
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",PM2.5
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",PM10
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",NO2
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",CO
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",OZONE
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",CO
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",PM2.5
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",PM10
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",NO2
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",CO
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",OZONE
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",PM2.5
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",PM10
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",NO2
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",CO
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",OZONE
+India,Delhi,Delhi,"DTU, Delhi - CPCB",PM2.5
+India,Delhi,Delhi,"DTU, Delhi - CPCB",PM10
+India,Delhi,Delhi,"DTU, Delhi - CPCB",NO2
+India,Delhi,Delhi,"DTU, Delhi - CPCB",NH3
+India,Delhi,Delhi,"DTU, Delhi - CPCB",SO2
+India,Delhi,Delhi,"DTU, Delhi - CPCB",CO
+India,Delhi,Delhi,"DTU, Delhi - CPCB",OZONE
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",CO
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",CO
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",PM2.5
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",PM10
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",NO2
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",CO
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",OZONE
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",PM2.5
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",NO2
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",NH3
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",SO2
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",CO
+India,Delhi,Delhi,"ITO, Delhi - CPCB",PM2.5
+India,Delhi,Delhi,"ITO, Delhi - CPCB",PM10
+India,Delhi,Delhi,"ITO, Delhi - CPCB",NO2
+India,Delhi,Delhi,"ITO, Delhi - CPCB",NH3
+India,Delhi,Delhi,"ITO, Delhi - CPCB",SO2
+India,Delhi,Delhi,"ITO, Delhi - CPCB",CO
+India,Delhi,Delhi,"ITO, Delhi - CPCB",OZONE
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",CO
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",CO
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",PM2.5
+India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",PM10
+India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",NO2
+India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",CO
+India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",OZONE
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",CO
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",CO
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",CO
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",PM2.5
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",NO2
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",SO2
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",CO
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",OZONE
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",CO
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Narela, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Narela, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Narela, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Narela, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Narela, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Narela, Delhi - DPCC",CO
+India,Delhi,Delhi,"Narela, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",CO
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",PM2.5
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",PM10
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",NO2
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",CO
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",OZONE
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",CO
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",CO
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",CO
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",CO
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Pusa, Delhi - IMD",PM2.5
+India,Delhi,Delhi,"Pusa, Delhi - IMD",PM10
+India,Delhi,Delhi,"Pusa, Delhi - IMD",NO2
+India,Delhi,Delhi,"Pusa, Delhi - IMD",CO
+India,Delhi,Delhi,"Pusa, Delhi - IMD",OZONE
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",PM10
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",NO2
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",NH3
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",SO2
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",CO
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",CO
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",PM2.5
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",NO2
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",SO2
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",CO
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",OZONE
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",PM2.5
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",PM10
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",NO2
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",NH3
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",SO2
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",CO
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",OZONE
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",CO
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",CO
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",CO
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",CO
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",OZONE
+India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",PM2.5
+India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",NO2
+India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",SO2
+India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",CO
+India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",OZONE
+India,Haryana,Faridabad,"Sector- 16A, Faridabad, Haryana - HSPCB",PM2.5
+India,Haryana,Faridabad,"Sector- 16A, Faridabad, Haryana - HSPCB",NO2
+India,Haryana,Faridabad,"Sector- 16A, Faridabad, Haryana - HSPCB",SO2
+India,Haryana,Faridabad,"Sector- 16A, Faridabad, Haryana - HSPCB",CO
+India,Haryana,Faridabad,"Sector- 16A, Faridabad, Haryana - HSPCB",OZONE
+India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",PM2.5
+India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",PM10
+India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",NO2
+India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",CO
+India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",OZONE
+India,Haryana,Gurugram,"Vikas Sadan, Gurugram, Haryana - HSPCB",PM2.5
+India,Haryana,Gurugram,"Vikas Sadan, Gurugram, Haryana - HSPCB",NO2
+India,Haryana,Gurugram,"Vikas Sadan, Gurugram, Haryana - HSPCB",SO2
+India,Haryana,Gurugram,"Vikas Sadan, Gurugram, Haryana - HSPCB",CO
+India,Haryana,Gurugram,"Vikas Sadan, Gurugram, Haryana - HSPCB",OZONE
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",PM2.5
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",PM10
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",NO2
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",NH3
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",SO2
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",CO
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",OZONE
+India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB",PM2.5
+India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB",NO2
+India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB",SO2
+India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB",CO
+India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB",OZONE
+India,Haryana,Rohtak,"MD University, Rohtak, Haryana - HSPCB",PM2.5
+India,Haryana,Rohtak,"MD University, Rohtak, Haryana - HSPCB",SO2
+India,Haryana,Rohtak,"MD University, Rohtak, Haryana - HSPCB",CO
+India,Haryana,Rohtak,"MD University, Rohtak, Haryana - HSPCB",OZONE
+India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",PM10
+India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",NO2
+India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",NH3
+India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",SO2
+India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",OZONE
+India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",PM2.5
+India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",NO2
+India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",SO2
+India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",CO
+India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",OZONE
+India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",PM2.5
+India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",PM10
+India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",NO2
+India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",NH3
+India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",SO2
+India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",OZONE
+India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",PM10
+India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",NO2
+India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",SO2
+India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",CO
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",PM2.5
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",PM10
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",NO2
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",NH3
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",SO2
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",CO
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",OZONE
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",PM2.5
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",PM10
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",NO2
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",NH3
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",SO2
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",CO
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",OZONE
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",PM2.5
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",PM10
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",NO2
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",NH3
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",SO2
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",CO
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",OZONE
+India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",PM2.5
+India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",NO2
+India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",NH3
+India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",SO2
+India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",CO
+India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",PM10
+India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",NO2
+India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",SO2
+India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",CO
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",PM2.5
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",PM10
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",NO2
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",NH3
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",SO2
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",CO
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",OZONE
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",PM2.5
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",PM10
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",NO2
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",NH3
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",SO2
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",CO
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",OZONE
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",PM2.5
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",PM10
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",NO2
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",NH3
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",SO2
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",CO
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",OZONE
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",PM2.5
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",PM10
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",NO2
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",NH3
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",SO2
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",CO
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",OZONE
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",PM2.5
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",PM10
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",NO2
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",NH3
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",SO2
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",CO
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",OZONE
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",PM2.5
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",PM10
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",NO2
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",NH3
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",SO2
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",CO
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",OZONE
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",PM2.5
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",PM10
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",NO2
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",NH3
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",SO2
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",CO
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",OZONE
+India,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - MPPCB",PM2.5
+India,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - MPPCB",PM10
+India,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - MPPCB",SO2
+India,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - MPPCB",CO
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",PM2.5
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",PM10
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",NO2
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",NH3
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",SO2
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",CO
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",OZONE
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",PM2.5
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",PM10
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",NO2
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",NH3
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",SO2
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",CO
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",OZONE
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",PM2.5
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",PM10
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",NO2
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",NH3
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",SO2
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",CO
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",OZONE
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",PM2.5
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",PM10
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",NO2
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",NH3
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",SO2
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",CO
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",OZONE
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",PM2.5
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",PM10
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",NO2
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",NH3
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",SO2
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",CO
+India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",PM2.5
+India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",PM10
+India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",NO2
+India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",SO2
+India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",CO
+India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",OZONE
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",PM2.5
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",PM10
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",NO2
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",NH3
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",SO2
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",CO
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",OZONE
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",PM2.5
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",PM10
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",NO2
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",NH3
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",SO2
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",CO
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",OZONE
+India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",PM2.5
+India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",PM10
+India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",NO2
+India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",SO2
+India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",CO
+India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",OZONE
+India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",PM2.5
+India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",PM10
+India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",NO2
+India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",SO2
+India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",CO
+India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",OZONE
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",PM2.5
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",PM10
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",NO2
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",NH3
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",SO2
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",CO
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",OZONE
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",PM2.5
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",PM10
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",NO2
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",NH3
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",SO2
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",CO
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",OZONE
+India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",PM2.5
+India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",NO2
+India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",NH3
+India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",SO2
+India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",CO
+India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",OZONE
+India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",PM2.5
+India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",PM10
+India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",NO2
+India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",NH3
+India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",OZONE
+India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",PM2.5
+India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",PM10
+India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",NO2
+India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",SO2
+India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",CO
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",PM2.5
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",PM10
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",NO2
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",NH3
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",SO2
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",CO
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",OZONE
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",PM2.5
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",PM10
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",NO2
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",NH3
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",SO2
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",CO
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",OZONE
+India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",PM2.5
+India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",PM10
+India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",NO2
+India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",NH3
+India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",CO
+India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",OZONE
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",PM2.5
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",PM10
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",NO2
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",NH3
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",SO2
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",CO
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",OZONE
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",PM2.5
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",PM10
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",NO2
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",NH3
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",SO2
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",CO
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",OZONE
+India,Punjab,Rupnagar,"Ratanpura, Rupnagar - PPCB",PM2.5
+India,Punjab,Rupnagar,"Ratanpura, Rupnagar - PPCB",PM10
+India,Punjab,Rupnagar,"Ratanpura, Rupnagar - PPCB",NO2
+India,Punjab,Rupnagar,"Ratanpura, Rupnagar - PPCB",SO2
+India,Punjab,Rupnagar,"Ratanpura, Rupnagar - PPCB",CO
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",PM2.5
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",PM10
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",NO2
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",NH3
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",SO2
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",CO
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",OZONE
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",PM2.5
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",PM10
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",NO2
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",NH3
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",SO2
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",CO
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",OZONE
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",PM2.5
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",PM10
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",NO2
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",NH3
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",SO2
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",CO
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",OZONE
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",PM2.5
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",PM10
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",NO2
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",NH3
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",SO2
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",CO
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",OZONE
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",PM2.5
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",PM10
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",NO2
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",NH3
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",SO2
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",CO
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",OZONE
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",PM2.5
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",PM10
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",NO2
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",NH3
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",SO2
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",CO
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",OZONE
+India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",PM2.5
+India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",PM10
+India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",NO2
+India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",SO2
+India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",CO
+India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",OZONE
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",PM2.5
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",PM10
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",NO2
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",NH3
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",SO2
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",CO
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",OZONE
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",PM2.5
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",PM10
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",NO2
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",NH3
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",SO2
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",CO
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",OZONE
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",PM2.5
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",PM10
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",NO2
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",NH3
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",SO2
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",CO
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",OZONE
+India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",PM2.5
+India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",NO2
+India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",SO2
+India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",CO
+India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",OZONE
+India,TamilNadu,Chennai,"Manali, Chennai - CPCB",PM2.5
+India,TamilNadu,Chennai,"Manali, Chennai - CPCB",NO2
+India,TamilNadu,Chennai,"Manali, Chennai - CPCB",NH3
+India,TamilNadu,Chennai,"Manali, Chennai - CPCB",SO2
+India,TamilNadu,Chennai,"Manali, Chennai - CPCB",CO
+India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",PM2.5
+India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",NO2
+India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",SO2
+India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",CO
+India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",OZONE
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",PM2.5
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",PM10
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",NO2
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",NH3
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",SO2
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",CO
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",OZONE
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",PM2.5
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",PM10
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",NO2
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",NH3
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",SO2
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",CO
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",OZONE
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",PM2.5
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",PM10
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",NO2
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",NH3
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",SO2
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",CO
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",OZONE
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",PM2.5
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",PM10
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",NO2
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",NH3
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",SO2
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",CO
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",OZONE
+India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",PM2.5
+India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",NO2
+India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",SO2
+India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",CO
+India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",OZONE
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",PM2.5
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",PM10
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",NO2
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",NH3
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",SO2
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",CO
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",OZONE
+India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",PM2.5
+India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",NO2
+India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",SO2
+India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",CO
+India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",OZONE
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",PM2.5
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",PM10
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",NO2
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",NH3
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",SO2
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",CO
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",OZONE
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",PM2.5
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",PM10
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",NO2
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",NH3
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",SO2
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",CO
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",OZONE
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",PM2.5
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",PM10
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",NO2
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",NH3
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",SO2
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",CO
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",OZONE
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",PM2.5
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",PM10
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",NO2
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",NH3
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",SO2
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",CO
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",OZONE
+India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",PM2.5
+India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",NO2
+India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",SO2
+India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",CO
+India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",OZONE
+India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",PM2.5
+India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",NO2
+India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",SO2
+India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",CO
+India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",OZONE
+India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",PM2.5
+India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",NO2
+India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",SO2
+India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",CO
+India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",OZONE
+India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",PM2.5
+India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",NO2
+India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",SO2
+India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",CO
+India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",OZONE
+India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",PM2.5
+India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",NO2
+India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",NH3
+India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",SO2
+India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",CO
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",PM2.5
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",PM10
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",NO2
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",NH3
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",SO2
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",CO
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",OZONE
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",PM2.5
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",PM10
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",NO2
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",NH3
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",SO2
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",CO
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",OZONE
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",PM2.5
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",PM10
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",NO2
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",NH3
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",SO2
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",CO
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",OZONE
+India,Uttar_Pradesh,Noida,"Sector - 62, Noida, UP - IMD",PM2.5
+India,Uttar_Pradesh,Noida,"Sector - 62, Noida, UP - IMD",PM10
+India,Uttar_Pradesh,Noida,"Sector - 62, Noida, UP - IMD",NO2
+India,Uttar_Pradesh,Noida,"Sector - 62, Noida, UP - IMD",CO
+India,Uttar_Pradesh,Noida,"Sector - 62, Noida, UP - IMD",OZONE
+India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",PM2.5
+India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",PM10
+India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",NO2
+India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",SO2
+India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",CO
+India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",OZONE
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",PM2.5
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",PM10
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",NO2
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",NH3
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",SO2
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",CO
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",OZONE
+India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",PM10
+India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",SO2
+India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",CO
+India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",PM10
+India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",NO2
+India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",SO2
+India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",CO
+India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",OZONE
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",PM2.5
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",PM10
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",NO2
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",NH3
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",SO2
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",CO
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",OZONE
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",PM2.5
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",PM10
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",NO2
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",NH3
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",SO2
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",CO
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",OZONE
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",PM2.5
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",PM10
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",NO2
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",NH3
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",SO2
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",CO
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",OZONE
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",PM2.5
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",PM10
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",NO2
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",NH3
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",SO2
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",CO
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",OZONE
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",PM2.5
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",PM10
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",NO2
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",NH3
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",SO2
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",CO
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",OZONE
+=======
+Country,State,city,place,Pollutants
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",PM2.5
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",PM10
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",NO2
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",NH3
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",SO2
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",CO
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",OZONE
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",PM2.5
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",PM10
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",NO2
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",NH3
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",SO2
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",CO
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",OZONE
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",PM2.5
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",PM10
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",NO2
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",NH3
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",SO2
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",CO
+India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",OZONE
+India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",PM2.5
+India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",PM10
+India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",NO2
+India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",NH3
+India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",SO2
+India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",CO
+India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",PM2.5
+India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",PM10
+India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",NO2
+India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",NH3
+India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",SO2
+India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",OZONE
+India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",PM2.5
+India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",NO2
+India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",SO2
+India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",CO
+India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",OZONE
+India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",PM2.5
+India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",NO2
+India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",SO2
+India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",CO
+India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",OZONE
+India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",PM2.5
+India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",NO2
+India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",SO2
+India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",CO
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",CO
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",CO
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",CO
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",PM2.5
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",PM10
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",NO2
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",CO
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",OZONE
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",CO
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",PM2.5
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",PM10
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",NO2
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",CO
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",OZONE
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",PM2.5
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",PM10
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",NO2
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",CO
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",OZONE
+India,Delhi,Delhi,"DTU, Delhi - CPCB",PM2.5
+India,Delhi,Delhi,"DTU, Delhi - CPCB",PM10
+India,Delhi,Delhi,"DTU, Delhi - CPCB",NO2
+India,Delhi,Delhi,"DTU, Delhi - CPCB",NH3
+India,Delhi,Delhi,"DTU, Delhi - CPCB",SO2
+India,Delhi,Delhi,"DTU, Delhi - CPCB",CO
+India,Delhi,Delhi,"DTU, Delhi - CPCB",OZONE
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",CO
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",CO
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",PM2.5
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",PM10
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",NO2
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",CO
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",OZONE
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",PM2.5
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",NO2
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",NH3
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",SO2
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",CO
+India,Delhi,Delhi,"ITO, Delhi - CPCB",PM2.5
+India,Delhi,Delhi,"ITO, Delhi - CPCB",PM10
+India,Delhi,Delhi,"ITO, Delhi - CPCB",NO2
+India,Delhi,Delhi,"ITO, Delhi - CPCB",NH3
+India,Delhi,Delhi,"ITO, Delhi - CPCB",SO2
+India,Delhi,Delhi,"ITO, Delhi - CPCB",CO
+India,Delhi,Delhi,"ITO, Delhi - CPCB",OZONE
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",CO
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",CO
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",PM2.5
+India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",PM10
+India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",NO2
+India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",CO
+India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",OZONE
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",CO
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",CO
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",CO
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",PM2.5
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",NO2
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",SO2
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",CO
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",OZONE
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",CO
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Narela, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Narela, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Narela, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Narela, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Narela, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Narela, Delhi - DPCC",CO
+India,Delhi,Delhi,"Narela, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",CO
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",PM2.5
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",PM10
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",NO2
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",CO
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",OZONE
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",CO
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",CO
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",CO
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",CO
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Pusa, Delhi - IMD",PM2.5
+India,Delhi,Delhi,"Pusa, Delhi - IMD",PM10
+India,Delhi,Delhi,"Pusa, Delhi - IMD",NO2
+India,Delhi,Delhi,"Pusa, Delhi - IMD",CO
+India,Delhi,Delhi,"Pusa, Delhi - IMD",OZONE
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",PM10
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",NO2
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",NH3
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",SO2
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",CO
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",CO
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",PM2.5
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",NO2
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",SO2
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",CO
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",OZONE
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",PM2.5
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",PM10
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",NO2
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",NH3
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",SO2
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",CO
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",OZONE
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",CO
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",CO
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",CO
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",OZONE
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",PM2.5
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",PM10
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",NO2
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",NH3
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",SO2
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",CO
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",OZONE
+India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",PM2.5
+India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",NO2
+India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",SO2
+India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",CO
+India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",OZONE
+India,Haryana,Faridabad,"Sector- 16A, Faridabad, Haryana - HSPCB",PM2.5
+India,Haryana,Faridabad,"Sector- 16A, Faridabad, Haryana - HSPCB",NO2
+India,Haryana,Faridabad,"Sector- 16A, Faridabad, Haryana - HSPCB",SO2
+India,Haryana,Faridabad,"Sector- 16A, Faridabad, Haryana - HSPCB",CO
+India,Haryana,Faridabad,"Sector- 16A, Faridabad, Haryana - HSPCB",OZONE
+India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",PM2.5
+India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",PM10
+India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",NO2
+India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",CO
+India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",OZONE
+India,Haryana,Gurugram,"Vikas Sadan, Gurugram, Haryana - HSPCB",PM2.5
+India,Haryana,Gurugram,"Vikas Sadan, Gurugram, Haryana - HSPCB",NO2
+India,Haryana,Gurugram,"Vikas Sadan, Gurugram, Haryana - HSPCB",SO2
+India,Haryana,Gurugram,"Vikas Sadan, Gurugram, Haryana - HSPCB",CO
+India,Haryana,Gurugram,"Vikas Sadan, Gurugram, Haryana - HSPCB",OZONE
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",PM2.5
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",PM10
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",NO2
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",NH3
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",SO2
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",CO
+India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",OZONE
+India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB",PM2.5
+India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB",NO2
+India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB",SO2
+India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB",CO
+India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB",OZONE
+India,Haryana,Rohtak,"MD University, Rohtak, Haryana - HSPCB",PM2.5
+India,Haryana,Rohtak,"MD University, Rohtak, Haryana - HSPCB",SO2
+India,Haryana,Rohtak,"MD University, Rohtak, Haryana - HSPCB",CO
+India,Haryana,Rohtak,"MD University, Rohtak, Haryana - HSPCB",OZONE
+India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",PM10
+India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",NO2
+India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",NH3
+India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",SO2
+India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",OZONE
+India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",PM2.5
+India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",NO2
+India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",SO2
+India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",CO
+India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",OZONE
+India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",PM2.5
+India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",PM10
+India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",NO2
+India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",NH3
+India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",SO2
+India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",OZONE
+India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",PM10
+India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",NO2
+India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",SO2
+India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",CO
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",PM2.5
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",PM10
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",NO2
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",NH3
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",SO2
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",CO
+India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",OZONE
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",PM2.5
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",PM10
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",NO2
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",NH3
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",SO2
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",CO
+India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",OZONE
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",PM2.5
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",PM10
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",NO2
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",NH3
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",SO2
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",CO
+India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",OZONE
+India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",PM2.5
+India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",NO2
+India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",NH3
+India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",SO2
+India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",CO
+India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",PM10
+India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",NO2
+India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",SO2
+India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",CO
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",PM2.5
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",PM10
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",NO2
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",NH3
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",SO2
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",CO
+India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",OZONE
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",PM2.5
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",PM10
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",NO2
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",NH3
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",SO2
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",CO
+India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",OZONE
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",PM2.5
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",PM10
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",NO2
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",NH3
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",SO2
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",CO
+India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",OZONE
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",PM2.5
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",PM10
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",NO2
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",NH3
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",SO2
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",CO
+India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",OZONE
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",PM2.5
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",PM10
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",NO2
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",NH3
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",SO2
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",CO
+India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",OZONE
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",PM2.5
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",PM10
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",NO2
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",NH3
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",SO2
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",CO
+India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",OZONE
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",PM2.5
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",PM10
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",NO2
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",NH3
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",SO2
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",CO
+India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",OZONE
+India,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - MPPCB",PM2.5
+India,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - MPPCB",PM10
+India,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - MPPCB",SO2
+India,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - MPPCB",CO
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",PM2.5
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",PM10
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",NO2
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",NH3
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",SO2
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",CO
+India,Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",OZONE
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",PM2.5
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",PM10
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",NO2
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",NH3
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",SO2
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",CO
+India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",OZONE
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",PM2.5
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",PM10
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",NO2
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",NH3
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",SO2
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",CO
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",OZONE
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",PM2.5
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",PM10
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",NO2
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",NH3
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",SO2
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",CO
+India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",OZONE
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",PM2.5
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",PM10
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",NO2
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",NH3
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",SO2
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",CO
+India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",PM2.5
+India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",PM10
+India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",NO2
+India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",SO2
+India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",CO
+India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",OZONE
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",PM2.5
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",PM10
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",NO2
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",NH3
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",SO2
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",CO
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",OZONE
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",PM2.5
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",PM10
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",NO2
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",NH3
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",SO2
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",CO
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",OZONE
+India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",PM2.5
+India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",PM10
+India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",NO2
+India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",SO2
+India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",CO
+India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",OZONE
+India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",PM2.5
+India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",PM10
+India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",NO2
+India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",SO2
+India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",CO
+India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",OZONE
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",PM2.5
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",PM10
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",NO2
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",NH3
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",SO2
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",CO
+India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",OZONE
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",PM2.5
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",PM10
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",NO2
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",NH3
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",SO2
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",CO
+India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",OZONE
+India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",PM2.5
+India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",NO2
+India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",NH3
+India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",SO2
+India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",CO
+India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",OZONE
+India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",PM2.5
+India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",PM10
+India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",NO2
+India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",NH3
+India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",OZONE
+India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",PM2.5
+India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",PM10
+India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",NO2
+India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",SO2
+India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",CO
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",PM2.5
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",PM10
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",NO2
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",NH3
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",SO2
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",CO
+India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",OZONE
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",PM2.5
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",PM10
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",NO2
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",NH3
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",SO2
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",CO
+India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",OZONE
+India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",PM2.5
+India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",PM10
+India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",NO2
+India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",NH3
+India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",CO
+India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",OZONE
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",PM2.5
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",PM10
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",NO2
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",NH3
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",SO2
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",CO
+India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",OZONE
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",PM2.5
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",PM10
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",NO2
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",NH3
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",SO2
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",CO
+India,Punjab,Patiala,"Model Town, Patiala - PPCB",OZONE
+India,Punjab,Rupnagar,"Ratanpura, Rupnagar - PPCB",PM2.5
+India,Punjab,Rupnagar,"Ratanpura, Rupnagar - PPCB",PM10
+India,Punjab,Rupnagar,"Ratanpura, Rupnagar - PPCB",NO2
+India,Punjab,Rupnagar,"Ratanpura, Rupnagar - PPCB",SO2
+India,Punjab,Rupnagar,"Ratanpura, Rupnagar - PPCB",CO
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",PM2.5
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",PM10
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",NO2
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",NH3
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",SO2
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",CO
+India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",OZONE
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",PM2.5
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",PM10
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",NO2
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",NH3
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",SO2
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",CO
+India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",OZONE
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",PM2.5
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",PM10
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",NO2
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",NH3
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",SO2
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",CO
+India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",OZONE
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",PM2.5
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",PM10
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",NO2
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",NH3
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",SO2
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",CO
+India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",OZONE
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",PM2.5
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",PM10
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",NO2
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",NH3
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",SO2
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",CO
+India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",OZONE
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",PM2.5
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",PM10
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",NO2
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",NH3
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",SO2
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",CO
+India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",OZONE
+India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",PM2.5
+India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",PM10
+India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",NO2
+India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",SO2
+India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",CO
+India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",OZONE
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",PM2.5
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",PM10
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",NO2
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",NH3
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",SO2
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",CO
+India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",OZONE
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",PM2.5
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",PM10
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",NO2
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",NH3
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",SO2
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",CO
+India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",OZONE
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",PM2.5
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",PM10
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",NO2
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",NH3
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",SO2
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",CO
+India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",OZONE
+India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",PM2.5
+India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",NO2
+India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",SO2
+India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",CO
+India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",OZONE
+India,TamilNadu,Chennai,"Manali, Chennai - CPCB",PM2.5
+India,TamilNadu,Chennai,"Manali, Chennai - CPCB",NO2
+India,TamilNadu,Chennai,"Manali, Chennai - CPCB",NH3
+India,TamilNadu,Chennai,"Manali, Chennai - CPCB",SO2
+India,TamilNadu,Chennai,"Manali, Chennai - CPCB",CO
+India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",PM2.5
+India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",NO2
+India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",SO2
+India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",CO
+India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",OZONE
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",PM2.5
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",PM10
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",NO2
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",NH3
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",SO2
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",CO
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",OZONE
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",PM2.5
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",PM10
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",NO2
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",NH3
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",SO2
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",CO
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",OZONE
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",PM2.5
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",PM10
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",NO2
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",NH3
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",SO2
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",CO
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",OZONE
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",PM2.5
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",PM10
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",NO2
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",NH3
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",SO2
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",CO
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",OZONE
+India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",PM2.5
+India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",NO2
+India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",SO2
+India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",CO
+India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",OZONE
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",PM2.5
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",PM10
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",NO2
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",NH3
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",SO2
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",CO
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",OZONE
+India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",PM2.5
+India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",NO2
+India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",SO2
+India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",CO
+India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",OZONE
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",PM2.5
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",PM10
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",NO2
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",NH3
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",SO2
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",CO
+India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",OZONE
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",PM2.5
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",PM10
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",NO2
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",NH3
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",SO2
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",CO
+India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",OZONE
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",PM2.5
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",PM10
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",NO2
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",NH3
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",SO2
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",CO
+India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",OZONE
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",PM2.5
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",PM10
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",NO2
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",NH3
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",SO2
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",CO
+India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",OZONE
+India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",PM2.5
+India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",NO2
+India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",SO2
+India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",CO
+India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",OZONE
+India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",PM2.5
+India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",NO2
+India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",SO2
+India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",CO
+India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",OZONE
+India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",PM2.5
+India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",NO2
+India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",SO2
+India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",CO
+India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",OZONE
+India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",PM2.5
+India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",NO2
+India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",SO2
+India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",CO
+India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",OZONE
+India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",PM2.5
+India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",NO2
+India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",NH3
+India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",SO2
+India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",CO
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",PM2.5
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",PM10
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",NO2
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",NH3
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",SO2
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",CO
+India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",OZONE
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",PM2.5
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",PM10
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",NO2
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",NH3
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",SO2
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",CO
+India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",OZONE
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",PM2.5
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",PM10
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",NO2
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",NH3
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",SO2
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",CO
+India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",OZONE
+India,Uttar_Pradesh,Noida,"Sector - 62, Noida, UP - IMD",PM2.5
+India,Uttar_Pradesh,Noida,"Sector - 62, Noida, UP - IMD",PM10
+India,Uttar_Pradesh,Noida,"Sector - 62, Noida, UP - IMD",NO2
+India,Uttar_Pradesh,Noida,"Sector - 62, Noida, UP - IMD",CO
+India,Uttar_Pradesh,Noida,"Sector - 62, Noida, UP - IMD",OZONE
+India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",PM2.5
+India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",PM10
+India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",NO2
+India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",SO2
+India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",CO
+India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",OZONE
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",PM2.5
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",PM10
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",NO2
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",NH3
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",SO2
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",CO
+India,West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",OZONE
+India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",PM10
+India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",SO2
+India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",CO
+India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",PM10
+India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",NO2
+India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",SO2
+India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",CO
+India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",OZONE
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",PM2.5
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",PM10
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",NO2
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",NH3
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",SO2
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",CO
+India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",OZONE
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",PM2.5
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",PM10
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",NO2
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",NH3
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",SO2
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",CO
+India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",OZONE
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",PM2.5
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",PM10
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",NO2
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",NH3
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",SO2
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",CO
+India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",OZONE
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",PM2.5
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",PM10
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",NO2
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",NH3
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",SO2
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",CO
+India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",OZONE
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",PM2.5
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",PM10
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",NO2
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",NH3
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",SO2
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",CO
+India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",OZONE
+>>>>>>> 4780cf39203a9621c806fc52371a5eba07a34cb8
