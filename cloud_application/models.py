@@ -27,3 +27,51 @@ class WaterPollution(models.Model):
     def __str__(self):
         """Return a string representation of the model."""
         return self.pollutants
+
+
+class pollution(models.Model):
+    country = models.CharField(max_length=30)
+    pollutants = models.FloatField()
+    
+    class Meta:
+        abstract = True
+        
+    def __str__(self):
+        """Return a string representation of the model."""
+        return self.country
+
+class airCO(pollution):
+    pass
+
+class airCO2(pollution):
+    pass
+    
+class airGHG(pollution):
+    pass
+
+class airNOX(pollution):
+    pass
+    
+class airSOX(pollution):
+    pass
+    
+class airVOC(pollution):
+    pass
+    
+class waterN(pollution):
+    pass
+   
+class waterNH3(pollution):
+    pass
+
+class waterNO3(pollution):
+    pass
+    
+class waterO2(pollution):
+    pass
+    
+class waterP(pollution):
+    pass
+    
+class waterPO4(pollution):
+    pass

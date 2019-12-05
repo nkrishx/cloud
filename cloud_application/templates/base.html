@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <html>
 
 	<head>
@@ -16,22 +15,15 @@
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample02" aria-controls="navbarsExample02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-
-      <div class="collapse navbar-collapse" id="navbarsExample02">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
-          </li>
-        </ul>
-        <form class="form-inline my-2 my-md-0">
-          <input class="form-control" type="text" placeholder="Search">
-        </form>
-      </div>
     </nav>
-	
+	<br>
+<div class="button-group">
+<a href="{% url 'cloud_application:display_airpollution' %}" class ="btn btn-primary btn-md" role="button"> AirPollution </a>
+<a href="{% url 'cloud_application:display_waterpollution' %}" class ="btn btn-primary btn-md" role="button"> WaterPollution </a>
+<a href="{% url 'cloud_application:display_toxicgases' %}" class ="btn btn-primary btn-md" role="button"> Toxic Gases </a>
+</div>
+
+<br>
 	<div class="container">
 	{% block body %}
 	
@@ -40,47 +32,4 @@
 	
 	</body>
 	
-	
-=======
-<html>
-
-	<head>
-		<title>Climate Change Concerns</title>
-	</head>
-	{% load static %}
-	<link href="{% static 'css/style.css' %}" rel="stylesheet">
-	<link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
-	
-	<body>
-	<nav class="navbar navbar-expand navbar-dark bg-dark">
-      <a class="navbar-brand" href="#">Climate Change Concerns - We Act Now </a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample02" aria-controls="navbarsExample02" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-
-      <div class="collapse navbar-collapse" id="navbarsExample02">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
-          </li>
-        </ul>
-        <form class="form-inline my-2 my-md-0">
-          <input class="form-control" type="text" placeholder="Search">
-        </form>
-      </div>
-    </nav>
-	
-	<div class="container">
-	{% block body %}
-	
-	{% endblock body %}
-	</div>
-	
-	</body>
-	
-	
->>>>>>> 4780cf39203a9621c806fc52371a5eba07a34cb8
 </html>
