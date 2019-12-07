@@ -16,7 +16,7 @@ class AirPollution(models.Model):
         """Return a string representation of the model."""
         return self.pollutants
 
-class WaterPollution(models.Model):
+class greenhouse(models.Model):
     #Type = models.CharField(max_length=200)
     country = models.CharField(max_length=200)
     state = models.CharField(max_length=200)
@@ -36,6 +36,16 @@ class pollution(models.Model):
     class Meta:
         abstract = True
         
+    def __str__(self):
+        """Return a string representation of the model."""
+        return self.country
+
+
+class deforestation(models.Model):
+    country = models.CharField(max_length=30)
+    recent_year = models.DateField()
+    value = models.FloatField()
+    
     def __str__(self):
         """Return a string representation of the model."""
         return self.country

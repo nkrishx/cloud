@@ -1,0 +1,71 @@
+<!doctype html>
+{% extends 'base.html' %}
+{% block body %}	
+<div style="text-align: center; padding-top: 6%;">
+
+<h2 > UPCOMING EVENTS </h2>
+</div>
+
+
+   <!-- <div class="gallery1"><p class="upcoming"><strong><h2 style="padding-left:40%">UPCOMING EVENTS</h2></strong></p> -->
+<div class="card" style="text-align:center; width:80%; padding-left:150px" >
+  <div class="thumbnail"> 
+  <a href="#">
+  {% load static %}
+<img src="{% static "images/1.PNG" %}" alt="" width="428"  class="cards" style="
+    height: 200px;"/></a>
+   <h4>DUBLIN WATER POLLUTION</br> CONFERENCE </h4>
+   <p class="tag">The Button factory </p>
+   <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+   <button class="more">more</button>
+ </div>
+	
+ <div class="thumbnail"> 
+ <a href="#">
+ {% load static %}
+ <img src="{% static "images/2.jpg" %}" alt="" width="1200" class="cards" style="
+    height: 200px;"/></a>
+   <h4>LONDON AIR POLLUTION</br> CONFERENCE</h4>
+   <p class="tag">Slough</p>
+   <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+   <button class="more">more</button>
+ </div>
+	
+ <div class="thumbnail"> 
+ <a href="#">
+ {% load static %}
+ <img src="{% static "images/3.jpg" %}" alt="" width="900" class="cards" style="
+    height: 200px;"/></a>
+   <h4>MADRID CLIMATE CHANGE</br> CONFERENCE</h4>
+   <p class="tag">Convention Centre</p>
+   <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+   <button class="more">more</button>
+ </div>
+	
+ <div class="thumbnail"> 
+ <a href="#">
+ {% load static %}
+ <img src="{% static "images/4.jpg" %}" alt="" width="790" class="cards" style="
+    height: 200px;"/></a>
+   <h4>GALWAY GREEN HOUSE EFFECT CONFERENCE</h4>
+   <p class="tag"> Stadium</p>
+   <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+   <button class="more">more</button>
+	
+</div>	
+</div>
+
+<div class="store" style="margin-top:39%"> 
+ <a href="https://play.google.com/"> 
+ {% load static %} 
+ <img border="0" alt="playstore" src="{% static "images/play store.png" %}" width="120" height="37">
+ </a> 
+ <a>&nbsp;</a> 
+ <a href="https://www.apple.com/ios/app-store/"> 
+ {% load static %} 
+ <img border="0" alt="playstore" src="{% static "images/apple1.png" %}" width="120" height="37">
+ </a> 
+ </div>
+
+{% endblock %}
+<!-- Main Container Ends -->

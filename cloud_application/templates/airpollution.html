@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block body %}
+<div style="text-align:center">
+<h2>{{header}}</h2>
+</div>
+<div class="graph" style="text-align:center">
+<iframe src="{{ tab_obj }}" height="700" width="985"></iframe>
+</div>
+
+<div class="store" style="padding-top:10px"> 
+ <a href="https://play.google.com/"> 
+ {% load static %} 
+ <img border="0" alt="playstore" src="{% static "images/play store.png" %}" width="120" height="37">
+ </a> 
+ <a>&nbsp;</a> 
+ <a href="https://www.apple.com/ios/app-store/"> 
+ {% load static %} 
+ <img border="0" alt="playstore" src="{% static "images/apple1.png" %}" width="120" height="37">
+ </a> 
+ </div>
+{% endblock %}

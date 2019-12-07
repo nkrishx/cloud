@@ -1,35 +1,38 @@
+<!doctype html>
 <html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<head>
-		<title>Climate Change Concerns</title>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.13/d3.min.js"></script>
-	</head>
+{% load static %}
+<link href="{% static 'css/cloudhome.css' %}" rel="stylesheet">
+</head>
+<body>
+<!-- Main Container -->
+ 
+  <!-- Header -->
+<div class="first">
+	<div class="topbanner">
 	{% load static %}
-	<link href="{% static 'css/style.css' %}" rel="stylesheet">
-	<link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
-	
-	
-	<body>
-	<nav class="navbar navbar-expand navbar-dark bg-dark">
-      <a class="navbar-brand" href="#">Climate Change Concerns - We Act Now </a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample02" aria-controls="navbarsExample02" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-    </nav>
-	<br>
-<div class="button-group">
-<a href="{% url 'cloud_application:display_airpollution' %}" class ="btn btn-primary btn-md" role="button"> AirPollution </a>
-<a href="{% url 'cloud_application:display_waterpollution' %}" class ="btn btn-primary btn-md" role="button"> WaterPollution </a>
-<a href="{% url 'cloud_application:display_toxicgases' %}" class ="btn btn-primary btn-md" role="button"> Toxic Gases </a>
-</div>
+	  <img src="{% static "images/logo3.jpg" %}" width="137" height="129" alt="" style="border-radius:50px"> 	
+  </div>	
 
-<br>
-	<div class="container">
+<div class="topbox">
+<ul>
+  <li><a href="{% url 'cloud_application:index' %}">HOME</a></li>
+  <li><a href="{% url 'cloud_application:display_airpollution' %}">AIR POLLUTION</a></li>	 
+  <li><a href="{% url 'cloud_application:display_greenhouse' %}">GREEN HOUSE GASES</a></li>
+  <li><a href="{% url 'cloud_application:display_deforestation' %}">DEFORESTATION</a></li>	
+  <li><a href="{% url 'cloud_application:display_about_us' %}">ABOUT US</a></li>
+</ul>
+</div>
+</div>	
+
 	{% block body %}
 	
 	{% endblock body %}
-	</div>
-	
-	</body>
-	
+
+
+<!-- Main Container Ends -->
+</body>
 </html>

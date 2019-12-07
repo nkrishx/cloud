@@ -25,7 +25,7 @@ class AirpollutionForm(forms.ModelForm):
         model = airCO
         exclude = ('country','pollutants',)
 
-class waterpollutionForm(forms.ModelForm):
+class greenhouseForm(forms.ModelForm):
     #state = forms.CharField()
     #pollutant = forms.CharField()
     #From = forms.ChoiceField(choices=[(x, x) for x in range(2010, 2020)])
@@ -36,3 +36,10 @@ class waterpollutionForm(forms.ModelForm):
     class Meta:
         model = waterN
         exclude = ('country','pollutants',)
+        
+class deforestationForm(forms.ModelForm):
+    country_list=['India','uganda','africa']
+    degradation = forms.ChoiceField(choices=[(x,x) for x in country_list])
+    class Meta:
+        model = deforestation
+        exclude = ('country','recent_year','value')
