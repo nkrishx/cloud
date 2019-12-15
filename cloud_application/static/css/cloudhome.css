@@ -5,8 +5,8 @@
 
 .first{
 	background-color:white;
-	padding-bottom:13%;
-	background-image:url("../images/world2.png")
+	padding-bottom:18%;
+	background-image:url("../images/e1111.png")
  
 }
 /* second division*/
@@ -63,7 +63,7 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 18px 39.5px;
+  padding: 18px 35px;
   text-decoration: none;
 }
 
@@ -87,8 +87,8 @@ li a:hover {
 }
 
 .store{
-margin-left:42%;	
-margin-top:auto;
+margin-top:39%; 
+margin-left: 46%
 }
 
 .cards {
@@ -98,5 +98,6 @@ margin-top:auto;
 	max-height: 200px;
 	opacity: 0.8;
 }
+
 
 

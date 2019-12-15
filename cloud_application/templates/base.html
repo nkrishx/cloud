@@ -14,14 +14,14 @@
 <div class="first">
 	<div class="topbanner">
 	{% load static %}
-	  <img src="{% static "images/logo3.jpg" %}" width="137" height="129" alt="" style="border-radius:50px"> 	
+	  <img src="{% static "images/logo2.png" %}" width="137" height="129" alt="" style="border-radius:5px; padding-top:12px;"> 	
   </div>	
 
 <div class="topbox">
 <ul>
-  <li><a href="{% url 'cloud_application:index' %}">HOME</a></li>
-  <li><a href="{% url 'cloud_application:display_airpollution' %}">AIR POLLUTION</a></li>	 
+  <li><a href="{% url 'cloud_application:index' %}">HOME</a></li>	 
   <li><a href="{% url 'cloud_application:display_greenhouse' %}">GREEN HOUSE GASES</a></li>
+  <li><a href="{% url 'cloud_application:display_airpollution' %}">AIR POLLUTION</a></li>
   <li><a href="{% url 'cloud_application:display_deforestation' %}">DEFORESTATION</a></li>	
   <li><a href="{% url 'cloud_application:display_about_us' %}">ABOUT US</a></li>
 </ul>
