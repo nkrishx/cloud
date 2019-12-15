@@ -9,7 +9,7 @@ from django.utils.text import slugify
 from django.http import HttpResponse
 from IPython.display import IFrame
 import commands
-#from pyhive import hive
+from pyhive import hive
 # Create your views here.
 
 def index(request):
@@ -18,9 +18,10 @@ def index(request):
     }
     return render(request,'home.html', context)
 
-'''def services(request):
+def services(request):
     return render(request,'services.html')
-def airpollution(request):
+
+'''def airpollution(request):
     items=AirPollution.objects.all()
     header='Currently Viewing Airpollution'
     startyear=''
@@ -84,7 +85,7 @@ def airpollution(request):
                     items=pollutants_dict_air[each].objects.all()
                     break
             model_name = slugify(items.model.__name__)
-            path = "C:\\Users\\navee\\Desktop\\cloud\\data_set"
+            path = "/home/ubuntu/server/cloud"
            # BASE_DIR = "/home/ubuntu/server/cloud_application/"
            # path = os.path.join(os.path.dirname(BASE_DIR), 'csvstorage')
            # path = r"/home/ubuntu/server/cloud_assignment/csvstorage"
@@ -134,7 +135,7 @@ def greenhouse(request):
                     items=pollutants_dict_water[each].objects.all()
                     break
             model_name = slugify(items.model.__name__)
-            path = "C:\\Users\\navee\\Desktop\\cloud\\data_set"
+            path = "/home/ubuntu/server/cloud"
            # BASE_DIR = "/home/ubuntu/server/cloud_application/"
            # path = os.path.join(os.path.dirname(BASE_DIR), 'csvstorage')
            # path = r"/home/ubuntu/server/cloud_assignment/csvstorage"
@@ -175,7 +176,7 @@ def deforestation(request):
             if each.lower() == degradation.lower():
                 items=deforestation.objects.all()
             model_name = slugify(items.model.__name__)
-            path = "C:\\Users\\navee\\Desktop\\cloud\\data_set"
+            path = "/home/ubuntu/server/cloud"
            # BASE_DIR = "/home/ubuntu/server/cloud_application/"
            # path = os.path.join(os.path.dirname(BASE_DIR), 'csvstorage')
            # path = r"/home/ubuntu/server/cloud_assignment/csvstorage"
